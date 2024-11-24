@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\StudioProjects\\socialvolunteer_app\\.dart_tool\\flutter_build\\2153a9679d7c1d6d8a787c33c4313878\\native_assets.yaml: 
